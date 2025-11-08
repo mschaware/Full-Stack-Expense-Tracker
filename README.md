@@ -9,12 +9,12 @@ A full-stack web application to track and manage personal expenses. Built with *
 - Secure session management with JWT
 
 ### 📊 Expense Management
-- **Add Expense**: Category, Amount, Comments (optional)
+- **Add Expense**: Category, Amount, Comments 
 - **View Expenses**: Table view with sorting by latest
 - **Edit / Delete Expense**: Inline editing and deletion
 - **Responsive UI**: Built with Tailwind CSS
 
-### 📈 Data Visualization *(Optional)*
+### 📈 Data Visualization 
 - Pie chart showing **category-wise expense distribution**
 
 ## 🛠️ Tech Stack
@@ -26,3 +26,4 @@ A full-stack web application to track and manage personal expenses. Built with *
 | Backend      | Supabase (PostgreSQL + Auth)  |
 | Charts       | Chart.js                      |
 | Deployment   | GitHub Pages / Vercel         |
+
